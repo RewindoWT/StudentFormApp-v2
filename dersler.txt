@@ -1,0 +1,4 @@
+Ders Kod: 1212,Ders Ad: Gorsel Programlama,Ders Dönem:1,Secilen Hoca:Emrah Saricicek
+Ders Kod: 2323,Ders Ad: Internet Programcılıgı,Ders Dönem:1,Secilen Hoca:Erkan Aydin
+Ders Kod: 1223,Ders Ad: Isletim Sistemi,Ders Dönem:1,Secilen Hoca:Tanju Sirmen
+Ders Kod: 7345,Ders Ad: Deneme Dersi,Ders Dönem:2,Secilen Hoca:Ayse Tasci

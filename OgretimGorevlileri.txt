@@ -1,0 +1,3 @@
+Ogretim Gorevlisi No: 1010,Ogretim Gorevlisi Ad:Salih,Ogretim Gorevlisi Soyad: Erkek,Ogretim Gorevlisi Bolum:Bilgisayar Mühendisliği
+Ogretim Gorevlisi No: 1020,Ogretim Gorevlisi Ad:Kerem,Ogretim Gorevlisi Soyad: Ucankacangil,Ogretim Gorevlisi Bolum:Bilgisayar Mühendisliği
+Ogretim Gorevlisi No: 1030,Ogretim Gorevlisi Ad:Mert,Ogretim Gorevlisi Soyad: Enes,Ogretim Gorevlisi Bolum:Bilgisayar Mühendisliği

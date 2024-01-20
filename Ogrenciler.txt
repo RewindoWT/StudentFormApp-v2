@@ -1,0 +1,3 @@
+Ogrenci No: 22334455,Ogrenci Ad:Salih Can,Ogrenci Soyad: Erkek,Ogrenci Ders: Gorsel Programlama,Ogrenci Bolum:Bilgisayar Programciligi
+Ogrenci No: 20200103456,Ogrenci Ad:Kerem,Ogrenci Soyad: Atici,Ogrenci Ders: Internet Programcılıgı,Ogrenci Bolum:Bilgisayar Programciligi
+Ogrenci No: 02495,Ogrenci Ad:Veysel,Ogrenci Soyad: Sinander,Ogrenci Ders: Isletim Sistemi,Ogrenci Bolum:Bilgisayar Programciligi
