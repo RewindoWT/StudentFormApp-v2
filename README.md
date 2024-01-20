@@ -1,7 +1,5 @@
 # StudentFormAppV2 Final 
 
-Zip icinde Zip oldugu icin 2 kere dosyayi cikartmaniz gerek
-Dogru dosyayi calistirdiginizdan emin olunuz
 
 !!!Project Structuredan Modulese gelip libi yuklemeniz gerekiyor
 !!! Intellij Idea ile projeyi aciyorsaniz actiginizda open SDK yapmalisiniz ve Grovvy kutuphanesini modulunu eklemeniz lazim yoksa kodta hata gosterir.
